@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>specjal5.jpg</filename>
+	<path>/Users/mkulaczkowski/devopsbay/object-recognition-imageai/examples/specjale/train/specjal5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>specjal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>1658</xmin>
+			<ymin>1090</ymin>
+			<xmax>1904</xmax>
+			<ymax>1386</ymax>
+		</bndbox>
+	</object>
+</annotation>
